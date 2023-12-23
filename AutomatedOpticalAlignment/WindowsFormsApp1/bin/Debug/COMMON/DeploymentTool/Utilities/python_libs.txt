@@ -1,0 +1,14 @@
+easydev
+ipython
+jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+pyvisa
+ruamel.yaml
+sphinx==1.6.5
+sphinx-rtd-theme
+svn
+xlrd
+intelHex

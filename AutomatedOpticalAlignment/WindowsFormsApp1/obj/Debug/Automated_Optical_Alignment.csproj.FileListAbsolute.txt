@@ -1,0 +1,72 @@
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csprojAssemblyReference.cache
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.GenerateResource.cache
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CopyComplete
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe.config
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.pdb
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.Properties.Resources.resources
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.exe
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.pdb
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe.config
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.pdb
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csprojAssemblyReference.cache
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.Properties.Resources.resources
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.GenerateResource.cache
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CopyComplete
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.exe
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.pdb
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.MainForm.resources
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.AutomaticScan.resources
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.MotorControlPanel.resources
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.PiezoScan.resources
+C:\Users\bscriven\Documents\THE_PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.StepperScan.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csprojAssemblyReference.cache
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.AutomaticScan.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.MainForm.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.MotorControlPanel.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.PiezoScan.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.StepperScan.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.GenerateResource.cache
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.exe
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.pdb
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe.config
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.Properties.Resources.resources
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CopyComplete
+C:\Users\bscriven\Documents\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.pdb
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe.config
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.exe
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Automated_Optical_Alignment.pdb
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\bin\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.AssemblyReference.cache
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.AutomaticScan.resources
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.MainForm.resources
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.MotorControlPanel.resources
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.PiezoScan.resources
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.Properties.Resources.resources
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.StepperScan.resources
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.GenerateResource.cache
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.csproj.CopyComplete
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.exe
+C:\Users\ben\OneDrive\Projects\Example 3 - Semtech Windows Application\AutomatedOpticalAlignment\WindowsFormsApp1\obj\Debug\Automated_Optical_Alignment.pdb

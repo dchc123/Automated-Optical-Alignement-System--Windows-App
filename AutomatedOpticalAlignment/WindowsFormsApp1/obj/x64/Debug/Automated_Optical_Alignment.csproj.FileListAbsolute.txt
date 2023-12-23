@@ -1,0 +1,1 @@
+C:\Users\bscriven\Documents\THE PROJECT\AutomatedOpticalAlignment\WindowsFormsApp1\obj\x64\Debug\Automated_Optical_Alignment.csproj.GenerateResource.cache
